@@ -24,6 +24,7 @@ Automatic Build with docker
 ONIE images can be built "automatically" thanks to a Dockerfile.
 
 .. code-block:: bash
+
     # build the container
     $ docker build -t oniebuilder .
     # create ONIE images
